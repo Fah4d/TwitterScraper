@@ -121,7 +121,7 @@ def Scrape(GuestToken):
                     profilebanner = (y["default_profile"])
                     Counter +=1
                     #print("[+]Counter:{}[+]".format(Counter),end="\r")
-                    #ctypes.windll.kernel32.SetConsoleTitleW(f"[+]Counter: {Counter}[+]")
+                    ctypes.windll.kernel32.SetConsoleTitleW(f"[+]Counter: {Counter}[+]") ## Remove this line if you use OS other than Windows
                     print(f"username : {username}")
                     with open("FullData.txt","a", encoding="utf-8") as wr:
                         wr.write(f"{idd},{username},{name},{description},{following},{followers},{tweets},{media},{favourites},{location},{created_at},{verified},{profileimage},{profilebanner}\n")
