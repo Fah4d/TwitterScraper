@@ -16,5 +16,3 @@ You have to download ChromeDrive from here : https://chromedriver.chromium.org/ 
 
 ## Usage 
 Threads from 2 to 4 are suitable for 5,000 users or less
-
-### Remax Alghamdi .
