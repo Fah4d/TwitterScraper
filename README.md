@@ -15,4 +15,6 @@ You have to download ChromeDrive from here : https://chromedriver.chromium.org/ 
 
 
 ## Usage 
-Threads ( 1 - 3 ) as good for 5000 users or less
+Threads from 2 to 4 are suitable for 5,000 users or less
+
+### Remax Alghamdi .
