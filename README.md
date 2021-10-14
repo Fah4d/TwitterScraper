@@ -12,3 +12,7 @@ You have to download ChromeDrive from here : https://chromedriver.chromium.org/ 
 
 ## Install libraries 
     $  pip install -r requirements.txt
+
+
+## Usage 
+Threads ( 1 - 3 ) as good for 5000 users or less
