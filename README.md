@@ -4,7 +4,7 @@ Script for scrape user data like "id,username,fullname,followers,tweets .. etc" 
 
 ## Screenshot
 ![Screenshot](https://i.ibb.co/cv2H99H/Screenshot-3.png)
-
+![Screenshot](https://i.ibb.co/y5xkfqQ/Screenshot-4.png)
 
 ## ChromeDrive 
 You have to download ChromeDrive from here : https://chromedriver.chromium.org/ , and then put it at the same file with the script .
