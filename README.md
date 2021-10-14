@@ -3,6 +3,4 @@ Script for scrape user data like "id,username,fullname,followers,tweets .. etc" 
 
 
 ## install librarys 
-.. code:: sh
-
     $  pip install -r requirements.txt
