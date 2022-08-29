@@ -21,7 +21,6 @@ print("""
         [ By : Remax Alghamdi . ]
     ======================================= 
     [+] Twitter : @iR3max .               |
-    [+] Instagram: @OQO .                 |
     [+] Discord : Remax#6666 .            |
     [+] Github : Fah4d .                  |
     =======================================
