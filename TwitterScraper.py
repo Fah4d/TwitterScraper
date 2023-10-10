@@ -20,8 +20,8 @@ print("""
          [-] TwitterScraper [-]
         [ By : Remax Alghamdi . ]
     ======================================= 
-    [+] Twitter : @iR3max .               |
-    [+] Discord : Remax#6666 .            |
+    [+] Twitter : @0xF4had .              |
+    [+] Discord : e6p .                   |
     [+] Github : Fah4d .                  |
     =======================================
 
